@@ -1,0 +1,14 @@
+---
+description: Implementation
+globs: 
+alwaysApply: false
+---
+Implementation Strategy
+Given the complexity, a staged approach:
+
+Phase 1: Implement heat transfer and basic phase change, similar to your C implementation but optimized for JavaScript
+Phase 2: Add fluid dynamics for the weld pool
+Phase 3: Incorporate electromagnetic effects and arc physics
+Phase 4: Integrate with ML frameworks and optimization for reinforcement learning
+
+Perhaps leverage WebAssembly for the core numerical solvers while keeping the API in JavaScript for accessibility. Using existing libraries like Three.js for visualization would also reduce development effort.
